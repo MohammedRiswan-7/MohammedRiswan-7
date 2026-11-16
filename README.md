@@ -60,14 +60,14 @@ I'm passionate about building software applications, exploring artificial intell
 
 - **Data Analytics Intern** – EliteTech (2025)
 - **Trainee** – Robolix RTS Innovation Lab (2025)
+- **web development intern** – Maanavan learning LLP
 
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| AutoGPT | Personal AI assistant and automation application |
-| Internship Mail Assistant | Telegram-based internship email automation |
-| CareerHub AI | AI-powered career platform |
+| AutoGPT | Personal AI assistant and automation application (persuing) |
+| GenZ Insights| Team portfolio |
 | GhatQuest | Travel and exploration application |
 | Askify | AI-powered chatbot application |
 
